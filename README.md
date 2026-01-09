@@ -6,12 +6,11 @@
 **Kelas:** PTI 5A  
 **Mata Kuliah:** Pemrograman Internet  
 **Dosen:** Taofik Muhammad, M.Kom  
-**Institusi:** Universitas Muhammadiyah Tasikmalaya
 
 ## Deskripsi
 
 Rafi Blog adalah aplikasi web blog yang saya buat menggunakan framework Laravel. Project ini dibuat untuk Ujian Akhir Semester (UAS) mata kuliah Pemrograman Internet.
-Tujuan dari project ini adalah untuk menerapkan materi yang sudah dipelajari selama perkuliahan, khususnya tentang pembuatan aplikasi web berbasis database menggunakan konsep MVC.
+Tujuan dari project ini adalah untuk menerapkan materi yang sudah dipelajari selama perkuliahan, khususnya tentang pembuatan aplikasi web berbasis database menggunakan konsep MVC. Menggunakan migration untuk basis data dan Seeder untuk data awal
 
 
 ## Fitur Utama
