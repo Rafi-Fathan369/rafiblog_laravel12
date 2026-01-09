@@ -94,7 +94,8 @@ php artisan serve
 
 Akses di http://localhost:8000
 
-
+Login admin: rafi_admin
+password: RafiBlog2026!
 
 Login di: http://localhost:8000/admin/login
 
