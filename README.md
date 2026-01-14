@@ -55,8 +55,9 @@ Kolom utama: publication_id (PK), title, slug, content, excerpt, featured_image,
 
 1. Clone repository
 ```bash
-git clone https://github.com/username/rafi-blog.git
-cd rafi-blog
+git clone https://github.com/Rafi-Fathan369/rafiblog_laravel12.git
+cd rafiblog_laravel12
+
 ```
 
 2. Install dependencies
