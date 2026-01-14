@@ -73,7 +73,7 @@ php artisan key:generate
 
 4. Konfigurasi database
 ```
-Buat database: nexablog_db
+Buat database: rafi_blog
 Edit .env sesuai konfigurasi lokal
 ```
 
